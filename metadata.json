@@ -1,0 +1,7 @@
+{
+  "name": "Varão10",
+  "description": "Plataforma de segurança e verificação de perfis para integridade masculina.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
